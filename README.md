@@ -37,3 +37,6 @@ A last year Computer Systems student and data analysis enthusiast.
 
 Effective communication • Networking • Cross‑cultural communication • Public presentation • Teamwork and collaboration
 
+<p align="center">
+  <img src="https://github.com/Rashmisingh-Bayas/Rashmisingh-Bayas/raw/main/data Scanning.gif" alt="Coding animation" width="400">
+</p>
