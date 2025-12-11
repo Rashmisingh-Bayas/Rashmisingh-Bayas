@@ -1,4 +1,7 @@
-## Hi i am Rashmisingh Bayas
+<h1 align="center" style="font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;">
+  Hi, I'm Rashmisingh Bayas
+</h1>
+
 
 <p align="center">
   <img src="https://github.com/Rashmisingh-Bayas/Rashmisingh-Bayas/raw/main/data-github.gif" alt="Coding animation" width="400">
