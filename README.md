@@ -1,5 +1,10 @@
 ## Hi i am Rashmisingh Bayas
 
+<p align="center">
+  <img src="https://github.com/Rashmisingh-Bayas/Rashmisingh-Bayas/raw/main/coding.gif" alt="Coding animation" width="400">
+</p>
+
+
 A last year Computer Systems student and data analysis enthusiast.
 
 - Student at Riga Technical University
