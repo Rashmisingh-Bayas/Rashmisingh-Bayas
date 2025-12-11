@@ -1,7 +1,7 @@
 ## Hi i am Rashmisingh Bayas
 
 <p align="center">
-  <img src="https://github.com/Rashmisingh-Bayas/Rashmisingh-Bayas/raw/main/coding.gif" alt="Coding animation" width="400">
+  <img src="https://github.com/Rashmisingh-Bayas/Rashmisingh-Bayas/raw/main/data-github.gif" alt="Coding animation" width="400">
 </p>
 
 
