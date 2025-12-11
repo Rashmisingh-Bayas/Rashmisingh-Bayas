@@ -2,6 +2,9 @@
   Hi, I'm Rashmisingh Bayas
 </h1>
 
+<p align="center">
+  <img src="data3-github.gif" alt="Data 3 demo" width="450">
+</p>
 
 <p align="center">
   <img src="https://github.com/Rashmisingh-Bayas/Rashmisingh-Bayas/raw/main/data-github.gif" alt="Coding animation" width="400">
