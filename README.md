@@ -9,7 +9,7 @@
 A last year Computer Systems student and data analysis enthusiast.
 
 - Student at Riga Technical University
-- Erasmus student at West Pomeranian University of Technology, Poland.
+- Erasmus+ Alumnus, West Pomeranian University of Technology
 - Interested in data analysis, visualization, and web apps  
 - How to reach me: rashmisinghbayas8@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rashmisingh-bayas
